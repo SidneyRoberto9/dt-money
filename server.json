@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-16T18:36:18.049Z"
+    },
+    {
+      "id": 2,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-01-20T18:36:18.049Z"
+    },
+    {
+      "id": 3,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2022-01-20T18:36:18.049Z"
+    },
+    {
+      "type": "income",
+      "price": 10000,
+      "category": "Venda",
+      "description": "Desenvolvimento de App",
+      "createdAt": "2023-01-17T06:03:28.196Z",
+      "id": 4
+    },
+    {
+      "type": "outcome",
+      "price": 5,
+      "category": "Alimentação",
+      "description": "Pastel",
+      "createdAt": "2023-01-17T06:14:22.530Z",
+      "id": 5
+    }
+  ]
+}
